@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,100;1,700&family=Oswald&family=Playfair+Display&display=swap');
+
+html
+{
+  background-color: rgba(112, 209, 238, 0.507);
+}
+h1 {
+  font-family: "Playfair Display", serif;
+}
+h2{
+  font-family: "Oswald", sans-serif;
+}
+p{
+  font-family: "Lato", sans-serif;
+  font-style: italic;
+  font-weight: 700; 
+  
+}
